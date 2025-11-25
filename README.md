@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.playground.com/08e480c7f70b4d598d523f709d3292ee.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritesh2223&label=Profile%20views&color=0e75b6&style=flat" alt="Ritesh2223" /> </p>
 
-- 🔭 I’m currently working on **security project**
+- 🔭 I’m currently working on **building something amazing**
 
 - 💬 Ask me about **MERN**
 
